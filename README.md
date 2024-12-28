@@ -1,16 +1,12 @@
 <h1 align="center">
-  Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Tianxing CHEN (陈天行) 👋</a> <br>
-	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftianxingchen.github.io&count_bg=%233FDBD2&title_bg=%233D62C7&icon=googlepodcasts.svg&icon_color=%23E9F742&title=Page+Viewers&edge_flat=false"/></a>
-	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TianxingChen">
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/TianxingChen">
-	<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/MarioChan2002">
+  Hi, I'm <a href="https://king-play.github.io/" target="_blank">Jiabin Luo (罗嘉滨) 🦁</a> <br>
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fking-play.github.io&count_bg=%233FDBD2&title_bg=%233D62C7&icon=googlepodcasts.svg&icon_color=%23E9F742&title=Page+Viewers&edge_flat=false"/></a>
+	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/King-play">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/King-play">
 <br>
-<a href="tianxingchen.github.io.github.io" target="_blank"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
 </h1>
-Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a <u>4th-year undergraduate student</u> majoring in Computer Science at Shenzhen University (expected graduation in July 2025) and doing research at <a href="https://mmlab-hku.com/" target="_blank">MMLab@HKU</a>, supervised by <a href="http://luoping.me">Prof. Ping Luo</a>. I am closely working with <a href="yaomarkmu.github.io">Yao Mu</a>.<br><br>
-I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition and a national runner-up in the RAICOM robotics competition. I also received <strong>CCF Elite Collegiate Award (CCF优秀大学生, top 99 nationwide)</strong> and <strong>"Excellent Star of SZU (荔园卓越之星)"</strong> which was the recipient of the highest honor for undergraduate students at Shenzhen University (rk 2/30000).<br>
-<br>
-<p>My research interests mainly focus on <b>Embodied AI (具身智能)</b>, on behavior planning and policy based on Diffusion Model, LLM and Reinforcement Learning. I am very interested in the application of policy in robot manipulation and autonomous driving scenarios.</p>
+Hi! I am <strong>Jiabin Luo (罗嘉滨)</strong>, currently a <u>4th-year undergraduate student</u> majoring in Data Science and Big Data Technology at Northeastern University (expected graduation in July 2025) , supervised by <a href="https://graduate.neuq.edu.cn/info/1148/2849.htm">Prof. Chao Liu</a>. I am closely working with <a href="yaoguopku.github.io">Yao Guo</a>.<br><br>
+<p>My research interests are AI systems, LLM, trusted LLM, RAG, and AI safety.I am also interested in generative data research. In 2025, I will start my PhD studies at Peking University. I publish a lot of open source projects on <a href="https://github.com/King-play">🔗Github</a>  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/king-play?style=flat-square">.</p>
 <p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
 
@@ -18,46 +14,26 @@ I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition 
 # 📎 Information
 <table width="100%">
   <tr>
-    <td>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></td>
-    <td>Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ" target="_blank">Tianxing Chen (陈天行)</a></td>
+    <td>🏠 <b>Homepage</b>: <a href="https://king-play.github.io/" target="_blank">king-play.github.io</a></td>
+    <td>Google Scholar: <a href="https://scholar.google.com/citations?user=pXG_5hYAAAAJ&hl=en" target="_blank">Jiabin Luo (罗嘉滨)</a></td>
     
   </tr>
 	
   <tr>
-    <td>X: <a href="https://x.com/MarioChan2002" target="_blank">MarioChen2002</a></td>
-    <td>Zhihu (知乎): <a href="https://www.zhihu.com/people/mario-chen-65" target="_blank">Tianxing Chen</a></td>
-	
-  </tr>
-  <tr>
-	  <td>Email: <a href="mailto:chentianxing2002@gmail.com" target="_blank">chentianxing2002@gmail.com</a></td>
-	  <td>WeChat (微信): <a href="https://tianxingchen.github.io/files/my_wechat.jpg" targe="_blank">QR Code</a> </td>
+    <td>Zhihu (知乎): <a href="https://www.zhihu.com/people/4-92-83-33-21" target="_blank">Jason Rowe</a></td>
+    <td>Email: <a href="mailto:luojiabin.poster@foxmail.com" target="_blank">luojiabin.poster@foxmail.com</a></td>
   </tr>
 </table>
 
-# 📑 Papers
-* **[arXiv]** G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, [Webpage](https://tianxingchen.github.io/G3Flow/), [Repo](https://github.com/TianxingChen/G3Flow)
-* **[arXiv]** DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
-* **[arXiv]** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking, [Webpage](https://hytidel.github.io/video-tracking-for-axis-estimation/) / [Repo](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
-* **[ECCV Workshop (Best Paper)]** RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version), [Webpage](https://robotwin-benchmark.github.io/early-version) / [Repo](https://github.com/TianxingChen/RoboTwin)
-* **[arXiv]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model
-* **[arXiv]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Webpage](https://manicm-fast.github.io/) / [Repo](https://github.com/ManiCM-fast/ManiCM)
-* **[ICARM 2024]** Robust UAV Policy Learning for Urban Infrastructure Surface Screening
 
-
-
-# ⭐️ Others
+# ✨ Now
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td align="center" style="width: 52%;">
       <!-- GitHub Stats -->
-      <a href="https://github.com/TianxingChen/">
+      <a href="https://king-play.github.io/">
         <img src="https://github-readme-stats.vercel.app/api?username=King-play&show_icons=true&count_private=true" alt="ckwu's github stats" />
       </a>
-    </td>
-    <td style="width: 48%; text-align: left;">
-      <strong>Paper-List-For-EmbodiedAI</strong>: <a href="https://github.com/tianxingchen/Paper-List">Project Page</a><br>
-      <strong>具身智能入门指南</strong>: <a href="https://github.com/tianxingchen/Embodied-AI-Guide">Project Page</a><br>
-      <strong>深圳大学飞跃手册</strong>: <a href="https://szu-feiyue.github.io/">SZU-FeiYue.github.io</a>
     </td>
   </tr>
 </table>
