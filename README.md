@@ -5,13 +5,13 @@
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/King-play">
 <br>
 </h1>
-Hi! I am <strong>Jiabin Luo (罗嘉滨)</strong>, currently a <u>4th-year undergraduate student</u> majoring in Data Science and Big Data Technology at Northeastern University (expected graduation in July 2025) .<br><br>
+Hi! I am <strong>Jiabin Luo (罗嘉滨)</strong>, currently a <u>4th-year undergraduate student</u> majoring in Data Science and Big Data Technology at Northeastern University (expected graduation in July 2025).<br><br>
 <p>My research interests are AI systems, LLM, trusted LLM, RAG, and AI safety.I am also interested in generative data research. In 2025, I will start my PhD studies at Peking University. I publish a lot of open source projects on <a href="https://github.com/King-play">🔗Github</a>  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/king-play?style=flat-square">.</p>
 <p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
 
 
-# 📎 Information
+# 🌋 Information
 <table width="100%">
   <tr>
     <td>🏠 <b>Homepage</b>: <a href="https://king-play.github.io/" target="_blank">king-play.github.io</a></td>
@@ -26,7 +26,7 @@ Hi! I am <strong>Jiabin Luo (罗嘉滨)</strong>, currently a <u>4th-year underg
 </table>
 
 
-# ✨ Now
+# 🔥 Now
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td align="center" style="width: 52%;">
