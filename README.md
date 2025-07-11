@@ -21,7 +21,7 @@ Hi! I am <strong>Jiabin Luo (罗嘉滨)</strong>, currently a <u>4th-year underg
 	
   <tr>
     <td>Zhihu (知乎): <a href="https://www.zhihu.com/people/4-92-83-33-21" target="_blank">Jason Rowe</a></td>
-    <td>Email: <a href="mailto:luojiabin.poster@foxmail.com" target="_blank">luojiabin.poster@foxmail.com</a></td>
+    <td>Email: <a href="mailto:luojiabin.poster@foxmail.com" target="_blank">jbluo25@stu.pku.edu.cn</a></td>
   </tr>
 </table>
 
