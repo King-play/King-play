@@ -32,7 +32,8 @@ Hi! I am <strong>Jiabin Luo (罗嘉滨)</strong>, currently a <u>4th-year underg
     <td align="center" style="width: 52%;">
       <!-- GitHub Stats -->
       <a href="https://king-play.github.io/">
-        <img src="https://github-readme-stats.vercel.app/api?username=King-play&show_icons=true&count_private=true" alt="ckwu's github stats" />
+		  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=King-play&theme=nord_bright" alt="Statistics">
+       <!--<img src="https://github-readme-stats.vercel.app/api?username=King-play&show_icons=true&count_private=true" alt="ckwu's github stats" />-->
       </a>
     </td>
   </tr>
