@@ -5,7 +5,7 @@
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/King-play">
 <br>
 </h1>
-Hi! I am <strong>Jiabin Luo (罗嘉滨)</strong>, currently a <u>1th-year PhD.<br><br>
+Hi! I am <strong>Jiabin Luo (罗嘉滨)</strong>, currently a <u>2th-year PhD.<br><br>
 <p>My research interests are Muti-agent systems, Unified Model, RAG, and AI safety.I am also interested in generative data research. In 2025, I will start my PhD studies at Peking University. I publish a lot of open source projects on <a href="https://github.com/King-play">🔗Github</a>  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/king-play?style=flat-square">.</p>
 <p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
